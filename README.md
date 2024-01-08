@@ -1,7 +1,7 @@
 # Frank P Moley III
 Builder of platforms, Commander of processors, Teacher of Minds, Perpetual Student, Cybersecurity junkie.
 
-Current: Principal Software Architect @[Vertex Inc](https://github.com/vertexinc)
+Current: Principal Software Architect [Vertex Inc](https://github.com/vertexinc)
 
 Ex: [Catch & Release](https://github.com/catchrelease), [DataStax](https://github.com/datastax), [Garmin](https://github.com/garmin), [Cerner](https://github.com/cerner)
 
