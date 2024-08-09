@@ -35,6 +35,6 @@ LinkedIn: [Frank Moley](https://linkedin.com/in/frankmoley)
 * [Local Kind](https://github.com/fpmoles/local-kind-setup) - a repository for storing my local Kind setup and scripts
 
 ## Teaching Repositories for classes I teach at the University of Kansas
-*[ITEC-746](https://github.com/fpmoles/itec-746)
+* [ITEC-746](https://github.com/fpmoles/itec-746)
 
 
