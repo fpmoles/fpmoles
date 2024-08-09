@@ -26,3 +26,15 @@ I am a software engineer and architect who has spent a large portion of my 20+ y
 Twitter/X: [@fpmoles](https://twitter.com/fpmoles)
 
 LinkedIn: [Frank Moley](https://linkedin.com/in/frankmoley)
+
+## Useful Repositories
+[Bash Snippets](https://github.com/fpmoles/bash_snippets) - a collection of bash snippets I find I use over and over again _send me your favorites in a PR_
+[Cleaner](https://github.com/fpmoles/cleaner) - a utility script to remove all git and java directories from a repository when posting code outside of GitHub for presentations and video training
+[Demo Utils](https://github.com/fpmoles/demo-utilities) - some demo databases for speaking, etc
+[GitHub Codespaces With Kind](https://github.com/fpmoles/codespaces-kind) - a template repository for spinning up a GitHub Codespaces instance with Kind, Postgresql, Nginx, Prometheus, and Grafana for development
+[Local Kind](https://github.com/fpmoles/local-kind-setup) - a repository for storing my local Kind setup and scripts
+
+## Teaching Repositories for classes I teach at the University of Kansas
+[ITEC-746](https://github.com/fpmoles/itec-746)
+
+
