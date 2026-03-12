@@ -34,7 +34,4 @@ LinkedIn: [Frank Moley](https://linkedin.com/in/frankmoley)
 * [GitHub Codespaces With Kind](https://github.com/fpmoles/codespaces-kind) - a template repository for spinning up a GitHub Codespaces instance with Kind, Postgresql, Nginx, Prometheus, and Grafana for development
 * [Local Kind](https://github.com/fpmoles/local-kind-setup) - a repository for storing my local Kind setup and scripts
 
-## Teaching Repositories for classes I teach at the University of Kansas
-* [ITEC-746](https://github.com/fpmoles/itec-746)
-
 
