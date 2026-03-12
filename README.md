@@ -28,6 +28,8 @@ Twitter/X: [@fpmoles](https://twitter.com/fpmoles)
 LinkedIn: [Frank Moley](https://linkedin.com/in/frankmoley)
 
 ## Useful Repositories
+* [FPMoles Local Dev Setup](https://github.com/fpmoles/local-setup) - a repository to setup a local development environment on a Mac
+* [FPMoles Dev Pack](https://github.com/fpmoles/dev-pack) - A scripted repository to install common scripts, templates, and ai skills agents on a local environment
 * [Bash Snippets](https://github.com/fpmoles/bash_snippets) - a collection of bash snippets I find I use over and over again _send me your favorites in a PR_
 * [Cleaner](https://github.com/fpmoles/cleaner) - a utility script to remove all git and java directories from a repository when posting code outside of GitHub for presentations and video training
 * [Demo Utils](https://github.com/fpmoles/demo-utilities) - some demo databases for speaking, etc
